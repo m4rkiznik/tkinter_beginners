@@ -1,4 +1,4 @@
-"# tkinter_beginners" 
+tkinter_beginners
 
 my first steps with tkinter for GUI applications
 
@@ -8,5 +8,6 @@ In this repository i will storage all projects where i use tkinter.
 
 Here will be a list of my projects:
 
-URL shorter
-YouTube downloader
+1. URL shorter
+2. YouTube downloader
+3. Password generator
