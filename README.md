@@ -12,4 +12,5 @@ Here will be a list of my projects:
 2. YouTube downloader
 3. Password generator
 4. Alarm clock
-5. PY notebook
+5. Claculator
+6. PY notebook
